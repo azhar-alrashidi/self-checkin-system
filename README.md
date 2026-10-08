@@ -34,10 +34,9 @@ An Arabic (RTL) web application that lets patients check in for their appointmen
 
 <img src="screenshots/success.png" alt="Successful Check-in" width="700">
 
-### Too Early | الحضور مبكرًا
+### Late Check-in | الحضور متأخرًا
 
-<img src="screenshots/too_early.png" alt="Too Early" width="700">
-
+<img src="screenshots/too_late.png" alt="Late Check-in" width="700">
 ## Tech Stack | التقنيات
 
 PHP (MySQLi, prepared statements) · MySQL · HTML / CSS / JavaScript · Tajawal font
